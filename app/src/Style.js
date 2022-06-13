@@ -24,7 +24,7 @@ const Styles = StyleSheet.create(
         borderWidth:        0,
         borderRadius:       8,
         padding:            10,
-        margin:             10,
+        margin:             5,
         width:              WINDOW_WIDTH  * 0.4,
         height:             WINDOW_HEIGHT * 0.1,
         backgroundColor:    '#FFC107FF',
@@ -41,12 +41,13 @@ const Styles = StyleSheet.create(
         borderColor:        WHITE_HEX,
         borderRadius:       8,
         padding:            10,
-        margin:             10,
+        margin:             5,
         width:              WINDOW_WIDTH  * 0.4,
         height:             WINDOW_HEIGHT * 0.1,
     },
     text:
     {
+        margin:             5,
         textAlign:          'center',
         color:               WHITE_HEX,
     },

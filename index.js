@@ -3,7 +3,7 @@ const express = require('express')
 const app = express()
 const port = process.env.PORT || 3000
 
-app.use(express.static('react/web-build'))
+app.use(express.static(`${__dirname}/app/web-build`))
 
 const server = app.listen(port, function()
 {

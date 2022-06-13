@@ -10,5 +10,9 @@
     "IncorrectURL":     "URL incorrecta",
     "Home":             "Inicio",
     "WebSocketURL":     "Web socket URL",
-    "AllowInput":       "Permitir entrada"
+    "AllowInput":       "Permitir entrada",
+    "RedScore":         "Puntos del equipo rojo",
+    "BlueScore":        "Puntos del equipo azul",
+    "Lock":             "Bloquear",
+    "Unlock":           "Desbloquear"
 }
